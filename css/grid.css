@@ -1,5 +1,9 @@
 /* Global
 ================================ */
+* {
+	-webkit
+	box-sizing: border-box;
+}
 
 .grid-container {
 	padding-left: 10px;
